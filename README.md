@@ -2,7 +2,7 @@
 
 
 
-<h3> - Me chamo Matheus Henriques</h3><br>
+<h3> - Me chamo Matheus Henriques.</h3><br>
 
 <ul>
   <li>Cursando Análise e Desenvolvimento de Sistemas</li>
