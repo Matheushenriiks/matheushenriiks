@@ -6,7 +6,6 @@
 
 <ul>
   <li>Cursando Análise e Desenvolvimento de Sistemas</li>
-  <li>Apaixonado por programação, tecnologia e novos desafios</li>
   <li>Apaixonado por música e músico nas horas vagas</li>
   <li>Front-End Developer </li>
   <li>Html, Css, JavaScript, ReactJs</li>
