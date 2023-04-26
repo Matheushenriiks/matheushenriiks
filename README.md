@@ -1,4 +1,4 @@
-<h1>Olá, seja bem vindo! </h1>
+<h1>Olá, bem vindo! </h1>
 
 
 
