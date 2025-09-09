@@ -13,7 +13,7 @@
 </div>
 
 <ul>
-  <li>Studying Systems Analysis and Development 📚</li>
+  <li>Systems Analysis and Development 📚</li>
   <li>Front-End Developer 👨‍💻 </li>
   <li>Passionate about music and musician in his spare time 🎵</li>
   <li>Always thirsty for learning, knowledge and experience.🧠</li>
