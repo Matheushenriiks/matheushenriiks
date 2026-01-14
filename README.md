@@ -7,11 +7,6 @@
 <!--<p>(HTML | CSS |  JS | REACTJS) </p><br>
 <!-->
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=matheushenriiks&count_private=true&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheushenriiks&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
-</div>
-
 <ul>
   <li>Systems Analysis and Development 📚</li>
   <li>Front-End Developer 👨‍💻 </li>
